@@ -1,0 +1,40 @@
+.services-page {
+    padding: 2rem 0;
+  }
+  
+  .services-page h1 {
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+  
+  .card-title {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .card-text {
+    color: #666;
+  }
+  
+  .bi {
+    margin-bottom: 1.5rem;
+  }
+  
+  .text-primary { color: #007bff; }
+  .text-warning { color: #ffc107; }
+  .text-success { color: #28a745; }
+  .text-danger { color: #dc3545; }
+  .text-info { color: #17a2b8; }
+  .text-secondary { color: #6c757d; }

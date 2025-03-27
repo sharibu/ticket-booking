@@ -1,0 +1,27 @@
+.contact-page {
+    padding: 2rem 0;
+  }
+  
+  .contact-page h1 {
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-page h3 {
+    color: #444;
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-page p {
+    margin-bottom: 1rem;
+  }
+  
+  .contact-page form {
+    background: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+  }
+  
+  .contact-page .form-control {
+    margin-bottom: 1rem;
+  }
